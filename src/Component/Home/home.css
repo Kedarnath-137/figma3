@@ -1,0 +1,27 @@
+
+.home-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 95vh;
+}
+.home-container h2{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: rgba(0, 0, 255, 0.817);
+}
+.home-container span{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: burlywood;
+}
+.home-container p{
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+}
+
+.home-img{
+    max-width: 80%;
+    height: auto;
+    margin: 0px auto;
+}

@@ -1,0 +1,9 @@
+
+.custom-navbar .navbar-brand,
+.custom-navbar .navbar-nav .nav-link {
+  color: blue !important;
+}
+.custom-navbar .navbar-brand{
+    display: flex;
+    align-items: center;
+}

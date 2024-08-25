@@ -1,0 +1,15 @@
+.features-container {
+    text-align: center; 
+}
+
+.features-container h4 {
+    margin-bottom: 1.5rem; 
+}
+
+.features-image {
+    max-width: 80%;
+    margin: 0 auto; 
+    display: block; 
+}
+
+

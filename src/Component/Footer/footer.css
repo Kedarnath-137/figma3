@@ -1,0 +1,29 @@
+
+
+.footer-container {
+    background-color: #077fff; 
+    color: white; 
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .footer-col h4 {
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  
+  .footer-col p {
+    margin: 5px 0;
+  }
+  
+ 
+  @media (max-width: 767px) {
+    .footer-container {
+      text-align: center; 
+    }
+  
+    .footer-col {
+      margin-bottom: 20px;
+    }
+  }
+  

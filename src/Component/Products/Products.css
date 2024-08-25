@@ -1,0 +1,26 @@
+
+ /* products.css */
+
+.products-container {
+    justify-content: flex-start; 
+}
+
+.product-card {
+    margin-bottom: 20px; 
+}
+
+@media (min-width: 768px) {
+    .products-container .row {
+        display: flex;
+        justify-content: space-between; 
+        align-items: flex-start; 
+    }
+    
+    .product-card {
+        flex: 0 1 32%; 
+    }
+}
+ 
+
+
+
