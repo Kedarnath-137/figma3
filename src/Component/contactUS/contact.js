@@ -11,7 +11,7 @@ const ContactUs = () => {
       <Container className="contactus-container mt-5">
         <Row className="align-items-center">
           <Col md={6} className="contactus-image-container">
-            <img src={img7} alt="image" className="img-fluid contactus-image" />
+            <img src={img7} alt="image1" className="img-fluid contactus-image" />
           </Col>
           <Col md={6} className="contactus-form-container">
             <Form>

@@ -16,7 +16,7 @@ const Home = ()=>{
           <Button variant="outline-primary">Contact Us</Button>
           </Col>
           <Col md={6}>
-          <img src={img1} className="img-fluid home-image"></img>
+          <img src={img1} alt="image"className="img-fluid home-image"></img>
           </Col>
         </Row>
         </Container>
